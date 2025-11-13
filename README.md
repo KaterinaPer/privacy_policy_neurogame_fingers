@@ -1,5 +1,7 @@
-
-{content:    Политика конфиденциальности
+<columns>
+  <column>
+    **Первая колонка**
+    Политика конфиденциальности
 
 Настоящая политика конфиденциальности применяется к приложению Neurogame Fingers (далее именуемому «Приложение») для мобильных устройств, созданному Екатериной (далее именуемой «Поставщик услуг») в качестве сервиса, поддерживаемого рекламой. Данный сервис предназначен для использования «КАК ЕСТЬ».
 
@@ -58,10 +60,12 @@ AdMob
 
 Настоящая Политика конфиденциальности может периодически обновляться по любой причине. Поставщик услуг уведомит вас о любых изменениях в Политике конфиденциальности, разместив на этой странице новую Политику конфиденциальности. Рекомендуется регулярно проверять настоящую Политику конфиденциальности на предмет любых изменений, поскольку дальнейшее использование считается согласием со всеми изменениями.
 
-Настоящая Политика конфиденциальности }
+Настоящая Политика конфиденциальности 
 
-{content:
-    Privacy Policy
+  </column>
+  <column>
+    **Вторая колонка**
+      Privacy Policy
 
 This privacy policy applies to the Neurogame Fingers app (hereby referred to as "Application") for mobile devices that was created by Ekaterina (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
@@ -128,6 +132,10 @@ By using the Application, you are consenting to the processing of your informati
 Contact Us
 
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at
+  </column>
+</columns>
+  
 
 
-}
+
+
