@@ -1,4 +1,5 @@
 ENGLISH LANGUAGE
+
 **Privacy Policy**
 
 This privacy policy is applicable to the Neurogame Fingers app (hereinafter referred to as "Application") for mobile devices, which was developed by Ekaterina Pereskokova (hereinafter referred to as "Service Provider") as a an Ad Supported service. This service is provided "AS IS".
